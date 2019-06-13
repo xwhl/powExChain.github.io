@@ -1,15 +1,16 @@
 {
-  "main.js": "./static/js/main.a97a93fc.chunk.js",
-  "main.js.map": "./static/js/main.a97a93fc.chunk.js.map",
+  "main.js": "./static/js/main.d1615806.chunk.js",
+  "main.js.map": "./static/js/main.d1615806.chunk.js.map",
   "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
   "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
-  "static/css/2.b9b8f684.chunk.css": "./static/css/2.b9b8f684.chunk.css",
-  "static/js/2.1ea2d686.chunk.js": "./static/js/2.1ea2d686.chunk.js",
-  "static/js/2.1ea2d686.chunk.js.map": "./static/js/2.1ea2d686.chunk.js.map",
+  "static/css/2.be600186.chunk.css": "./static/css/2.be600186.chunk.css",
+  "static/js/2.5660f90d.chunk.js": "./static/js/2.5660f90d.chunk.js",
+  "static/js/2.5660f90d.chunk.js.map": "./static/js/2.5660f90d.chunk.js.map",
   "index.html": "./index.html",
-  "precache-manifest.3eeb147fc5b62757c7d064acb70325ea.js": "./precache-manifest.3eeb147fc5b62757c7d064acb70325ea.js",
+  "precache-manifest.8c735bb9935dafa71c0826348c33457f.js": "./precache-manifest.8c735bb9935dafa71c0826348c33457f.js",
   "service-worker.js": "./service-worker.js",
-  "static/css/2.b9b8f684.chunk.css.map": "./static/css/2.b9b8f684.chunk.css.map",
+  "static/css/2.be600186.chunk.css.map": "./static/css/2.be600186.chunk.css.map",
   "static/media/background.jpg": "./static/media/background.127bf5f9.jpg",
-  "static/media/semantic.css": "./static/media/outline-icons.ef60a4f6.woff"
+  "static/media/semantic.css": "./static/media/outline-icons.ef60a4f6.woff",
+  "static/media/ethereum-blockchain.png": "./static/media/ethereum-blockchain.92576589.png"
 }
